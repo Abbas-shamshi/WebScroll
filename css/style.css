@@ -1,0 +1,130 @@
+body{
+  background: #F6F6F6;
+}
+.navbar-brand img {
+    float: left;
+    width: 50px;
+    height: auto;
+    background: #555;
+  }
+
+li a{
+     color: black;
+}
+.head-text{
+  margin-top: 300px;
+  width: 1169px;
+}
+.head-text h1{
+  font-size: 64px;
+  }
+.head-text   h3{
+ font-size: 32px;
+ margin-top: 88px;
+ }
+.brand{
+  display: flex;  
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: 147px;
+}
+.brand img{
+  width: 640px;
+  height: 640px;
+}
+.brand-text{
+  margin-left: 35px;
+}
+.brand-text h1{
+  font-size: 30px;
+
+}
+.brand-text h2{
+  margin-top: 41px;
+  font-size: 24px;
+  border: 20px;
+
+}
+.brand-text h3{
+  font-size: 16px;
+  margin-top: 10px;
+}
+hr{
+  width: 50%;
+  text-align: start;
+}
+.polka  {
+  display: flex;  
+  align-items: center;
+  justify-content: center;
+  margin-top: 107px;
+}
+.polka-text{
+  text-align: end;
+  margin-right: 35px;
+}
+.polka-text h1{
+  font-size: 30px;
+
+}
+.polka-text h2{
+  margin-top: 41px;
+  font-size: 24px;
+  border: 20px;
+}
+.polka-text h3{
+  font-size: 16px;
+  margin-top: 10px;
+}
+.Polkadot{
+  margin-top: 100px;
+}
+.magicskool{
+  display: flex;  
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+
+}
+.magicskool img{
+  height: 640px;
+  width: 800px;
+}
+.magicskool-text{
+  text-align: end;
+  margin-right: -60px;
+
+}
+.ecommerence{
+  margin-top: 100px;
+}
+.more{
+  margin-left: 221px;
+}
+.more h1{
+  font-size: 16px;
+  color: #626262;
+}
+.more h2{
+  font-size: 18px;
+}
+.end-text{
+  margin-top: 130px;
+}
+.end-text h1{
+  font-size: 48px;
+
+}
+.end-text h2{
+  font-size: 16px;
+  margin-top: 69px;
+}
+li{
+  display: inline;
+  
+}
+.end-text ul{
+  margin-top: 40px;
+padding: 0;
+font-weight: bold;
+}

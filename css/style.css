@@ -128,3 +128,103 @@ li{
 padding: 0;
 font-weight: bold;
 }
+
+.brand-logo{
+  display: flex;  
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: 159px;
+}
+.brand-logo img{
+  width: 500px;
+  height: 565px;
+}
+.reinvention{
+  margin-left: 56px;
+
+}
+.reinvention p{
+font-size: 16px;
+color: #2B3EED;
+}
+.reinvention h1{
+font-size: 48px;
+color: #1F2234;
+margin-top: 28px;
+}
+.reinvention h2{
+font-size: 18px;
+color: #2F2F2F;
+margin-top: 39px;
+}
+.info{
+  margin-top: 236px;
+  display: flex;  
+  align-items: center;
+  justify-content: flex-start;
+}
+.info img{
+  width: 800px;
+  height: 400px;
+}
+.info-text{
+  margin-right: 93px;
+  text-align: right;
+  font-size: 14px;
+color: #626262;
+}
+.info-text h1{
+margin-top: 24px;
+  font-size: 14px;
+
+}
+.line{
+  width: 165px;
+  height: 3px;
+  margin-top: 50px;
+  background: : #2B3EED;
+}
+.line1{
+  width: 165px;
+  height: 3px;
+  margin-top: 100px;
+  background: : #2B3EED;
+}
+.story{
+  width:730px;
+  text-align: center;
+  margin: auto;
+}
+.story h1{
+  font-size: 18px;
+  color: #1F2234;
+  text-transform: capitalize;
+}
+.story p{
+  margin-top: 30px;
+  font-size: 18px;
+  color:#2F2F2F;
+}
+.logos{
+  text-align: center;
+  margin-top: 100px;
+}
+.logos img{
+  width: 818px;
+  height: 207px
+}
+.elaborate{
+  margin-top: 50px;
+  text-align: center;
+  margin: auto;
+  width: 786px;
+}
+.elaborate h1{
+  font-size: 18px;
+  color: #1F2234;
+}
+.elaborate p{
+  margin-top: 30px;
+  font-size: 18px;
+  color: #2F2F2F;
+}

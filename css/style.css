@@ -204,6 +204,8 @@ margin-top: 24px;
   margin-top: 30px;
   font-size: 18px;
   color:#2F2F2F;
+  line-height: 32px;
+
 }
 .logos{
   text-align: center;
@@ -227,4 +229,123 @@ margin-top: 24px;
   margin-top: 30px;
   font-size: 18px;
   color: #2F2F2F;
+  line-height: 32px;
+
 }
+.ideas-head{
+  text-align: center;
+}
+.ideas-head h1{
+  margin-top: 100px;
+  font-size: 18px;
+}
+.ideas-head img{
+  margin-top: 75px;
+}
+.icon{
+  text-align: center;
+}
+.icon h1{
+  margin-top: 75px;
+  font-size: 18px
+}
+.icon img{
+  margin-top: 75px;
+  width: 1071px;
+}
+.final{
+  text-align: center;
+}
+.final h1{
+  font-size: 18px;
+  margin-top: 75px;
+}
+.final p{
+  font-size: 18px;
+  font-weight: normal;
+  margin-top: 75px;
+  line-height: 32px;
+}
+.final img{
+  margin-top: 114px;
+}
+.final-p{
+  width: 786px;
+  margin: auto;
+}
+.color{
+  text-align: center;
+}
+.color h1{
+  font-size: 18px;
+  margin-top: 100px;
+}
+.color p{
+  font-size: 18px;
+  margin-top: 75px;
+  line-height: 32px;
+}
+.color-logo{
+  padding: 0px;
+  margin-top: 75px;
+}
+.color-logo1{
+  padding: 0px;
+margin-top: 10px;
+}
+.color-img img{
+  padding: 0px;
+  width: 100%;
+}
+.typeface{
+  text-align: center;
+  margin-top: 100px;
+}
+.typeface h1{
+  font-size: 18px;
+  text-transform: uppercase;
+}
+.typeface p{
+line-height: 32px;
+margin-top: 75px;
+}
+.double-bck{
+  background-color: #1F2234;
+  margin-top: 100px;
+  text-align: center;
+}
+.double-bck h1{
+  padding-top: 97px;
+  font-size: 18px;
+  text-transform: uppercase;
+  color: white;
+}
+.double-bck p{
+  font-size: 18px;
+  color: white;
+  line-height: 32px;
+
+}
+.para-box{
+  color: white;
+  width: 795px;
+  margin: auto;
+  margin-top: 75px;
+}
+.main-logo{
+  margin-top: 75px;
+  padding-bottom: 120px;
+}
+.main-logo img{
+margin-bottom: 12px;
+}
+.main-logo2{
+  text-align: center;
+  margin-top: 71px;
+}
+.main-logo2 img{
+}
+.image2{
+  margin-top: 99px;
+}
+

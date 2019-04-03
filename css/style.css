@@ -100,6 +100,7 @@ hr{
 }
 .more{
   margin-left: 221px;
+  margin-top: 251.45px;
 }
 .more h1{
   font-size: 16px;
@@ -110,17 +111,21 @@ hr{
 }
 .end-text{
   margin-top: 130px;
+  border-top: 1px solid #BDBDBD; 
 }
 .end-text h1{
   font-size: 48px;
-
+padding-top: 70px;
 }
 .end-text h2{
   font-size: 16px;
   margin-top: 69px;
+  line-height: 21px;
+  padding-bottom: 113px;
 }
 li{
   display: inline;
+  margin-right: 35px;
   
 }
 .end-text ul{
@@ -304,6 +309,7 @@ margin-top: 10px;
 .typeface h1{
   font-size: 18px;
   text-transform: uppercase;
+  font-weight: bold;
 }
 .typeface p{
 line-height: 32px;
@@ -348,4 +354,45 @@ margin-bottom: 12px;
 .image2{
   margin-top: 99px;
 }
-
+.closing-bck{
+  background-color: #F6F6F6;
+  text-align: center;
+  margin-top: 55px;
+}
+.closing-bck h1{
+  padding-top: 100px;
+font-size: 18px;
+text-transform: uppercase;
+font-weight: bold;
+}
+.closing-bck p{
+  font-size: 18px;
+  line-height: 32px;
+  margin-top: 45px;
+}
+.more-work{
+  margin-top: 150px;
+  margin-left: 221px;
+}
+.more-work h1{
+  color: #626262;
+  font-size: 16px;
+  text-align: left;
+  line-height: 21px;
+}
+.more-work h2{
+  color: #2A2A2A;
+  font-size: 18px;
+  text-align: left;
+  line-height: 24px;
+}
+.more-work h3{
+  color: #2A2A2A;
+  font-size: 18px;
+  text-align: right;
+  line-height: 24px;
+  float: right;
+}
+.more-work i{
+  margin-left: 5px;
+}
